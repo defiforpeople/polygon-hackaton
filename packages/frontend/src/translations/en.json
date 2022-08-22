@@ -1,0 +1,113 @@
+{
+  "common": {
+    "begin": "Learn React",
+    "connectWallet": "Connect Wallet"
+  },
+  "NavbarLanding": {
+    "strategies": "Strategies",
+    "more": "More",
+    "enter": "Enter",
+    "button": "Begin"
+  },
+  "SectionOne": {
+    "title": "DeFi is simple",
+    "subtitle": "At DeFi for People we aim to help users understand DeFi and its main advantages",
+    "button": "Begin"
+  },
+  "SectionTwo": {
+    "title": "Grow your savings 📈",
+    "button": "Simulate"
+  },
+  "DashboardOnboarding": {
+    "label1": "Type of investor",
+    "label2": "Simulate a goal",
+    "label3": "Start investing",
+    "button": "I like this simulation"
+  },
+  "Simulation": {
+    "title": "How much do you want to invest?",
+    "amountMessage": "If started today with",
+    "recurringMessage": "If every year you will invest",
+    "during": "During",
+    "years": "years",
+    "continue": "Continue",
+    "in": "In",
+    "tittleChart": "years you will have",
+    "howIsCalculated": "How is calculated?",
+    "optimistic": "Optimistic result",
+    "pessimistic": "Pessimistic result",
+    "invested": "Total invested",
+    "adjust": "Adjust your simulation",
+    "text1": "Whe consider two possible scenarios: optimistic and pessimistic",
+    "text2": "The value of each year is calculated by the formula:",
+    "calculateValue": "value = past year valye ( 1 + APY) + recurrent investment",
+    "APYoptimistic": "APY Optimistic: 10%",
+    "APYpessimistic": "APY Pessimistic: 5%"
+  },
+  "ConnectWalletOnboarding": {
+    "title": "Connect Wallet",
+    "subtitle": "Connect your wallet to start to use DeFi for People",
+    "button": "Connect Wallet",
+    "permission": "View only permission. We will never do anything withot your approval",
+    "trustedBy": "Trusted by",
+    "users": "users",
+    "verified": "Contract verified"
+  },
+  "FooterLanding": {
+    "info": "Info",
+    "work": "How do we work?",
+    "strategies": "Strategies",
+    "products": "Products",
+    "strategy1": "Lending protocol",
+    "strategy2": "Liquidity provider",
+    "touch": "Get in touch",
+    "touchMessage": "If you are interested in learning more about our products, we would love to connect with you",
+    "email": "Email address",
+    "suscribe": "Contact us",
+    "changeLanguage": "DeFi for People is available in: ",
+    "copyright": "DeFi for People 2022 ©. All rights reserved"
+  },
+  "InvesmentModal": {
+    "title": "Invest",
+    "selectStrategy": "Select strategy",
+    "selectToken": "Select token",
+    "strategy": "Strategy",
+    "amount": "Amount",
+    "available": "Available",
+    "continue": "Continue",
+    "strategy1": "Lending protocol",
+    "strategy2": "Liquidity provider"
+  },
+  "DrawerNavbar": {
+    "how": "How do we work?",
+    "strategies": "Strategies",
+    "gobernance": "Governance",
+    "enter": "Enter",
+    "begin": "Begin",
+    "changeLanguage": "DeFi for People is available in: "
+  },
+  "mobileConnectWalletModal": {
+    "message": "Cannot connect to wallet. Please visit this page on your desktop browser to connect to your wallet."
+  },
+  "connectWallet": {
+    "connectWallet": "Connect Wallet",
+    "message": "Connect wallet to view your assets in DeFi for People",
+    "connect": "Connect to wallet",
+    "changeLanguage": "DeFi for People is available in: ",
+    "signingMessage": "Logging in DeFi for People using Moralis ..."
+  },
+  "footer": {
+    "copyright": "DeFi for People 2022 ©. All rights reserved."
+  },
+  "strategies": {
+    "title": "Different",
+    "subtitle": "strategies",
+    "presentation": "We offer different strategies to get you started with DeFi in a simple way.",
+    "button": "Get started",
+    "message": "Starting at $1",
+    "strategy1": "Lending protocol",
+    "strategy1_description": "This strategy allows the user to lend or borrow tokens in the Aave protocol",
+    "strategy2": "Liquidity provider",
+    "strategy2_description": "This strategy allows the user to provide liquidity in the Uniswap V3 protocol"
+  }
+}

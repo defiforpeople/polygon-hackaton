@@ -1,0 +1,6 @@
+// export type EthersJsNetwork = 'eth';
+// export class EthersJsAdapter implements IAdapter {
+//   private name: AdapterName;
+//   constructor() {
+//     this.name = 'ethers.js';
+//   }

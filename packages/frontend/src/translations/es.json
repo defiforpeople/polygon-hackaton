@@ -1,0 +1,114 @@
+{
+  "common": {
+    "learnReact": "Aprender React",
+    "connectWallet": "Conectar Wallet"
+  },
+  "NavbarLanding": {
+    "strategies": "Estrategias",
+    "more": "Más",
+    "enter": "Entrar",
+    "button": "Comenzar"
+  },
+  "SectionOne": {
+    "title": "DeFi es simple",
+    "subtitle": "En DeFi for People buscamos ayudar a los usuarios a enteder DeFi y sus principales ventajas",
+    "button": "Comenzar"
+  },
+  "SectionTwo": {
+    "title": "Haz crecer tus ahorros 📈",
+    "button": "Simular"
+  },
+  "DashboardOnboarding": {
+    "label1": "Tipo de inversionista",
+    "label2": "Simula una inversión",
+    "label3": "Vamos a invertir",
+    "button": "Me gusta esta simulación"
+  },
+  "Simulation": {
+    "title": "Cuánto quieres invertir?",
+    "amountMessage": "Si partieras hoy con",
+    "recurringMessage": "Si al año depositaras",
+    "during": "Durante",
+    "years": "años",
+    "continue": "Continuar",
+    "in": "En",
+    "tittleChart": "años podrías tener",
+    "howIsCalculated": "Cómo se calcula?",
+    "optimistic": "Resultado optimista",
+    "pessimistic": "Resultado pesimista",
+    "invested": "Total invertido",
+    "adjust": "Ajusta tu simulación",
+    "text1": "Consideramos 2 posibles escenarios, optimista y pesimista",
+    "text2": "El valor de cada año se calcula como:",
+    "calculateValue": "valor = valor del año anterior ( 1 + APY) + inversión recurrente",
+    "APYoptimistic": "Optimista APY: 10%",
+    "APYpessimistic": "Pesimista APY: 5%"
+  },
+  "ConnectWalletOnboarding": {
+    "title": "Conectar Wallet",
+    "subtitle": "Conecta tu wallet para empezar a utilizar DeFi for People ",
+    "button": "Conectar Wallet",
+    "permission": "Persmisos solo de vizualicación. Nunca haremos nada sin tu aprobación.",
+    "trustedBy": "Confian en nosotros",
+    "users": "usuarios",
+    "verified": "Contratos verificados"
+  },
+  "FooterLanding": {
+    "info": "Info",
+    "work": "¿Cómo funciona?",
+    "strategies": "Estrategias",
+    "strategy1": "Protocolo de préstamo",
+    "strategy2": "Proveedor de liquidez",
+    "developers": "Desarrolladores",
+    "products": "Productos",
+    "touch": "Contacto",
+    "touchMessage": "Si estas interesado en aprender más sobre nuestros productos, amariamos que nos contactes.",
+    "email": "Dirección de correo electrónico",
+    "suscribe": "Contactar",
+    "changeLanguage": "DeFi for People disponible en:",
+    "copyright": "DeFi for People 2022 ©. Todos los derechos reservados."
+  },
+  "InvesmentModal": {
+    "title": "Invertir",
+    "selectStrategy": "Seleccionar estrategia",
+    "selectToken": "Seleccionar token",
+    "strategy": "Estrategia",
+    "amount": "Monto",
+    "available": "Disponible",
+    "continue": "Continuar",
+    "strategy1": "Lending protocol",
+    "strategy2": "Liquidity provider"
+  },
+  "DrawerNavbar": {
+    "how": "¿Cómo funciona?",
+    "strategies": "Estrategias",
+    "gobernance": "Gobernanza",
+    "enter": "Entrar",
+    "begin": "Comenzar",
+    "changeLanguage": "DeFi for People disponible en:"
+  },
+  "mobileConnectWalletModal": {
+    "message": "No es posible conectar tu wallet. Por favor visita el sitio en un computador para conectarte a tu wallet."
+  },
+  "connectWallet": {
+    "connectWallet": "Conectar Wallet",
+    "message": "Conecta tu wallet para ver tus activos en DeFi for People ",
+    "connect": "Conectar a wallet",
+    "changeLanguage": "DeFi for People disponible en: ",
+    "signingMessage": "Autenticando en DeFi for People usando Moralis ..."
+  },
+  "footer": {
+    "copyright": "DeFi for People 2022 ©. Todos los derechos reservados."
+  },
+  "strategies": {
+    "title": "Diferentes",
+    "subtitle": "estrategias DeFi para invertir",
+    "presentation": "Ofrecemos diferentes estrategias para que puedas empezar a utilizar DeFi de manera simple",
+    "button": "Comenzar",
+    "message": "Comienza con $1",
+    "strategy1": "Protocolo de préstamo",
+    "strategy1_description": "Esta estrategia permite al usuario prestar tokens en el protocolo Aave",
+    "strategy2": "Proveedor de liquidez",
+    "strategy2_description": "Esta estrategia provee liquidez de un par de tokens en el protocolo Uniswap V3"
+  }
+}

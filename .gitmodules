@@ -1,0 +1,12 @@
+[submodule "packages/frontend"]
+	path = packages/frontend
+	url = git@github.com:defiforpeople/frontend.git
+[submodule "packages/strat-supply-uni"]
+	path = packages/strat-supply-uni
+	url = git@github.com:defiforpeople/strat-supply-uni.git
+[submodule "packages/strat-supply-aave"]
+	path = packages/strat-supply-aave
+	url = git@github.com:defiforpeople/strat-supply-aave.git
+[submodule "packages/defiforpeople/synchronizer"]
+	path = packages/defiforpeople/synchronizer
+	url = git@github.com:defiforpeople/defiforpeople/synchronizer.git

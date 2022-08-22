@@ -7,6 +7,6 @@
 [submodule "packages/strat-supply-aave"]
 	path = packages/strat-supply-aave
 	url = git@github.com:defiforpeople/strat-supply-aave.git
-[submodule "packages/defiforpeople/synchronizer"]
-	path = packages/defiforpeople/synchronizer
+[submodule "packages/synchronizer"]
+	path = packages/synchronizer
 	url = git@github.com:defiforpeople/synchronizer.git

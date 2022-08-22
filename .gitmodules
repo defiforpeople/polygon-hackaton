@@ -9,4 +9,4 @@
 	url = git@github.com:defiforpeople/strat-supply-aave.git
 [submodule "packages/defiforpeople/synchronizer"]
 	path = packages/defiforpeople/synchronizer
-	url = git@github.com:defiforpeople/defiforpeople/synchronizer.git
+	url = git@github.com:defiforpeople/synchronizer.git
